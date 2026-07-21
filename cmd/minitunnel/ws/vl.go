@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/cloudflare/cloudflared/cmd/minitunnel/ws/dns"
+	"github.com/bramstera/minitu/cmd/minitunnel/ws/dns"
 )
 
 // HandleVLESS handles VLESS-WS protocol connections
