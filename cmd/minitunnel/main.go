@@ -41,7 +41,7 @@ import (
 	"github.com/google/uuid"
 	"github.com/rs/zerolog"
 
-	"github.com/cloudflare/cloudflared/cmd/minitunnel/ws"
+	"github.com/bramstera/minitu/cmd/minitunnel/ws"
 	"github.com/cloudflare/cloudflared/config"
 	"github.com/cloudflare/cloudflared/connection"
 	"github.com/cloudflare/cloudflared/edgediscovery"
