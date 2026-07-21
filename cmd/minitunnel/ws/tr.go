@@ -12,7 +12,7 @@ import (
 
 	"github.com/gorilla/websocket"
 
-	"github.com/cloudflare/cloudflared/cmd/minitunnel/ws/dns"
+	"github.com/bramstera/minitu/cmd/minitunnel/ws/dns"
 )
 
 // HandleTrojan handles Trojan-WS protocol connections.
