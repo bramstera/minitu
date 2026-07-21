@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cloudflare/cloudflared/cmd/minitunnel/ws/dns"
+	"https://github.com/bramstera/minitu/cmd/minitunnel/ws/dns"
 	"github.com/gorilla/websocket"
 )
 
